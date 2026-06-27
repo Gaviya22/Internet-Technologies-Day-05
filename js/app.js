@@ -83,3 +83,32 @@
 // }
 
 
+// function add(x, y) {
+//     return x + y;
+// }
+
+// let result = add(10, 20);
+// console.log(result);
+
+
+// let numbers = [1, 2, 3, 4, 5];
+
+// for (let i = 0; i < numbers.length; i++) {
+//     console.log(numbers[i]);
+// }
+
+// let numbers = [1, true, 3, "saman", 5, "ranil", "sunil"];
+
+// for (let i = 0; i < numbers.length; i++) {
+//     console.log(numbers[i]);
+// }
+
+
+let customer = {
+    name: "Saman",
+    age: 18,
+    isAfterAL: false,
+    salary: 7500.0
+}
+
+console.log(customer);
