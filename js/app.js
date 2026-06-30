@@ -111,4 +111,4 @@
 //     salary: 7500.0
 // }
 
-// console.log(customer);
+console.log(customer);
